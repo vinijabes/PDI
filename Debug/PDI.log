@@ -1,0 +1,31 @@
+﻿  PDI.cpp
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(222,2): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(219): message : ao compilar a função de membro 'PDI::Matrix<int> &PDI::Matrix<int>::Sub(const T &)' do modelo da classe
+          with
+          [
+              T=int
+          ]
+C:\Users\vinij\source\repos\PDI\PDI\PDI.cpp(78): message : consulte a referência à instanciação 'PDI::Matrix<int>' do modelo da classe que está sendo compilada
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(208,2): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(204): message : ao compilar a função de membro 'PDI::Matrix<int> &PDI::Matrix<int>::Sub(const PDI::Matrix<int> &)' do modelo da classe
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(181,2): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(178): message : ao compilar a função de membro 'PDI::Matrix<int> &PDI::Matrix<int>::Add(const T &)' do modelo da classe
+          with
+          [
+              T=int
+          ]
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(169,2): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(165): message : ao compilar a função de membro 'PDI::Matrix<int> &PDI::Matrix<int>::Add(const PDI::Matrix<int> &)' do modelo da classe
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(149,2): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(147): message : ao compilar a função de membro 'void PDI::Matrix<int>::ForEach(std::function<void (T &,uint32_t,uint32_t)>)' do modelo da classe
+          with
+          [
+              T=int
+          ]
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(141): message : consulte a referência à instanciação 'void PDI::Matrix<int>::ForEach(std::function<void (T &,uint32_t,uint32_t)>)' do modelo que está sendo compilada
+          with
+          [
+              T=int
+          ]
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(151,2): warning C4018: '<': incompatibilidade de signed/unsigned
+  PDI.vcxproj -> C:\Users\vinij\source\repos\PDI\Debug\PDI.exe

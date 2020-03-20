@@ -1,0 +1,20 @@
+﻿  PDI.cpp
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(142,2): warning C4018: '<': incompatibilidade de signed/unsigned
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(140): message : ao compilar a função de membro 'void PDI::Matrix<int>::ForEach(std::function<void (T &,uint32_t,uint32_t)>)' do modelo da classe
+          with
+          [
+              T=int
+          ]
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(197): message : consulte a referência à instanciação 'void PDI::Matrix<int>::ForEach(std::function<void (T &,uint32_t,uint32_t)>)' do modelo que está sendo compilada
+          with
+          [
+              T=int
+          ]
+C:\Users\vinij\source\repos\PDI\PDI\PDI.cpp(77): message : consulte a referência à instanciação 'PDI::Matrix<int>' do modelo da classe que está sendo compilada
+C:\Users\vinij\source\repos\PDI\PDI\src\Matrix.h(144,2): warning C4018: '<': incompatibilidade de signed/unsigned
+  Gerando código
+  2 of 194 functions ( 1.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    1 functions had inline decision re-evaluated but remain unchanged
+  Finalizada a geração de código
+  PDI.vcxproj -> C:\Users\vinij\source\repos\PDI\Release\PDI.exe
